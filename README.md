@@ -1,4 +1,4 @@
-# cosmos-sdk-proto
+# greenfield-sdk-proto
 
 [![Crate][crate-image]][crate-link]
 [![Docs][docs-image]][docs-link]
