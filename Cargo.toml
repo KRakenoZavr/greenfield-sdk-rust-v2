@@ -1,12 +1,12 @@
 [package]
 name = "greenfield-sdk-proto"
 version = "0.19.0"
-license = "Apache-2.0"
+license = "MITApache-2.0"
 repository = "https://github.com/cosmos/cosmos-rust/tree/main/cosmos-sdk-proto"
-description = "Protobuf stuct defintions for interacting Cosmos SDK powered blockchains"
+description = "Rust crate for interacting with Protobufs defined by the greenfield SDK."
 readme = "README.md"
 categories = ["cryptography", "cryptography::cryptocurrencies", "database"]
-keywords = ["blockchain", "cosmos", "tendermint", "proto"]
+keywords = ["blockchain", "cosmos", "tendermint", "proto", "greenfield", "BNB"]
 edition = "2021"
 rust-version = "1.63"
 
