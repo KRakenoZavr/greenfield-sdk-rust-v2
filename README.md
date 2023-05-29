@@ -16,6 +16,14 @@ This crate is supported on Rust **1.63** or newer.
 
 ### Documentation, Resources and Sources that was used in this project.
 
+[greenfield-cosmos-sdk](https://github.com/bnb-chain/greenfield-cosmos-sdk)
+
+[cosmos-rust](https://github.com/cosmos/cosmos-rust)
+
+[cosmos-sdk-proto](https://github.com/cosmos/cosmos-rust/tree/main/cosmos-sdk-proto)
+
+[cosmrs](https://github.com/cosmos/cosmos-rust/tree/main/cosmrs)
+
 [Greenfield - gRPC Gateway docs](https://greenfield.bnbchain.org/openapi)
 
 [gRPC-Gateway](https://grpc-ecosystem.github.io/grpc-gateway/)
@@ -24,13 +32,8 @@ This crate is supported on Rust **1.63** or newer.
 
 [Blockchain GRPC REST](https://greenfield.bnbchain.org/docs/api-sdk/grpc-rest.html)
 
-[Cosmos-client](https://github.com/SylvestreG/cosmos-client/tree/master)
-
-[GRPC Greenfield Cosmos Client](https://github.com/KRakenoZavr/Count/tree/grpc)
-
-[Greenfield Rust SDK](https://github.com/KRakenoZavr/greenfield-sdk-rust-v2)
-
 ---
+
 ### Related Projects
 [greenfield-cmd](https://github.com/bnb-chain/greenfield-common): Greenfield client cmd tool, supporting commands to make requests to greenfield written in Golang.
 
