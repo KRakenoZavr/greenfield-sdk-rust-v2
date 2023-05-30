@@ -1,18 +1,32 @@
 # greenfield-sdk-proto
 
-Rust crate for interacting with Protobufs defined by the greenfield SDK.
+---
+### Rust Crate for Interacting with Protobufs in the Greenfield SDK Blockchain
+Welcome to the Rust crate designed to enhance your interaction with Protobufs defined by the greenfield SDK. This library aims to provide complete proto struct definitions, empowering developers to build robust applications on the greenfield SDK blockchain.
 
-The goal of this crate is to provide complete proto struct definitions for interacting
-with a greenfield SDK blockchain.
+#### Key Features
+- Comprehensive Proto Struct Definitions: Unlike the existing limited subset of struct definitions, our crate offers a more complete set of proto struct definitions. This allows you to have a comprehensive understanding of the SDK's functionalities and leverage its full potential.
 
-Currently, this crate only provides a subset of the many total structs exported by
-greenfield SDK proto files.
+- Improved SDK Interoperability: With our crate, you can seamlessly communicate and interact with the greenfield SDK. By expanding the available struct definitions, we ensure a smoother integration process, making it easier for you to build applications on top of the SDK.
+
+- Streamlined Development Process: Say goodbye to manually creating or modifying proto structs. Our crate's enriched proto struct definitions save you valuable time and effort, enabling you to focus on developing your blockchain applications. We handle the low-level implementation details, so you can focus on what matters most.
+
+- Increased Developer Productivity: Our complete proto struct definitions empower you to work efficiently and productively. With predefined structures at your disposal, you can handle various data types and messages effectively. This productivity boost allows you to iterate faster, experiment with different SDK functionalities, and deliver high-quality blockchain applications in record time.
+
+#### Community Collaboration
+We believe in the power of community collaboration. By contributing to this crate, you actively foster an environment of knowledge sharing and growth. Other developers can benefit from your contributions, provide feedback, and contribute further improvements. Together, we can build a vibrant hub for SDK-related discussions and advancements.
+
+#### Open Source Philosophy
+This Rust crate aligns with the open-source philosophy, offering a valuable resource to the community free of charge. We strive to promote inclusivity and empower developers from all backgrounds and skill levels to interact with the greenfield SDK efficiently. Join us on this exciting journey of innovation and blockchain development possibilities.
+
+Getting Started
+To get started with the Rust crate for interacting with Protobufs in the greenfield SDK blockchain, please refer to the documentation for installation instructions, usage guidelines, and examples. We encourage you to explore the features, contribute to the project, and join our growing community.
 
 Pull requests to expand coverage are welcome.
 
-## Minimum Supported Rust Version
-
 This crate is supported on Rust **1.63** or newer.
+
+---
 
 ### Documentation, Resources and Sources that was used in this project.
 
@@ -49,5 +63,7 @@ This crate is supported on Rust **1.63** or newer.
 
 ---
 
-MIT License
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Copyright (c) 2023
+#### License
+This crate is licensed under the MIT License. Feel free to use, modify, and distribute it in accordance with the terms and conditions outlined in the license.
+
+We appreciate your interest and look forward to your contributions. Happy coding!
